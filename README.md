@@ -1,4 +1,4 @@
-# AI-Based ATS Resume Screening System (SVM)
+# AI-Based ATS Resume Screening System
 
 A Streamlit web app that screens resumes against a job description using NLP + TF-IDF + SVM. [Check out here](https://major-project-ats-resume-screener.streamlit.app/).
 
